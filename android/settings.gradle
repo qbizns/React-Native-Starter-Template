@@ -1,0 +1,86 @@
+rootProject.name = 'ClientApp'
+include ':app'
+
+include ':react-native-sound'
+include ':react-native-restart'
+include ':react-native-localization', ':app'
+include ':react-native-image-picker'
+include ':react-native-google-places'
+include ':react-native-keep-awake'  
+include ':react-native-firebase'
+include ':react-native-video'
+include ':react-native-mauron85-background-geolocation', ':app'
+include ':react-native-maps'
+include ':react-native-vector-icons'
+include ':react-native-navigation'
+include ':react-native-wheel-picker-android'
+include ':react-native-linear-gradient'
+
+project(':react-native-sound').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-sound/android'
+)
+
+project(':react-native-restart').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-restart/android'
+)
+
+project(':react-native-localization').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-localization/android'
+)
+
+project(':react-native-image-picker').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-image-picker/android'
+)
+
+project(':react-native-google-places').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-google-places/android'
+)
+
+project(':react-native-keep-awake').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-keep-awake/android'
+)
+
+project(':react-native-firebase').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-firebase/android'
+)
+
+project(':react-native-video').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-video/android'
+)
+
+project(':react-native-mauron85-background-geolocation').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-mauron85-background-geolocation/android/lib'
+)
+
+project(':react-native-maps').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-maps/lib/android'
+)
+
+project(':react-native-vector-icons').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-vector-icons/android'
+)
+project(':react-native-navigation').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-navigation/android/app/'
+)
+
+project(':react-native-wheel-picker-android').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-wheel-picker-android/android'
+)
+
+project(':react-native-linear-gradient').projectDir = new File(
+  rootProject.projectDir,
+  '../node_modules/react-native-linear-gradient/android'
+)

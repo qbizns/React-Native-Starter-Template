@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/11.6.0/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

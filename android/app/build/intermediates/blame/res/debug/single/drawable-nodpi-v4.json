@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder_large.png",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.4.2/res/drawable-nodpi-v4/cast_album_art_placeholder_large.png"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/cast_album_art_placeholder.png",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.4.2/res/drawable-nodpi-v4/cast_album_art_placeholder.png"
+    }
+]

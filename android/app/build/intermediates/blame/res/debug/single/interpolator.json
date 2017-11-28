@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

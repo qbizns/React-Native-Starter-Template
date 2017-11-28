@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/ClientApp/react-native-mauron85-background-geolocation/unspecified/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/ClientApp/react-native-mauron85-background-geolocation/unspecified/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/mac/v8/ClientApp/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/mac/v8/ClientApp/android/app/build/intermediates/exploded-aar/ClientApp/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    }
+]

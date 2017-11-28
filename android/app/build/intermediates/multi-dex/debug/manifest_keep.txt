@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:57
+-keep class com.tatx.clientapp.MainApplication { <init>(...); }
+
